@@ -9,60 +9,60 @@
 
   <!-- Neon Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+%26+Backend+Engineer;High-Throughput+Distributed+Architectures;Cloud+Infrastructure+%26+DevOps+on+AWS;Event-Driven+Microservices+%26+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=580&height=42&lines=Full-Stack+%26+Backend+Engineer;Game+Developer+%26+Godot+Mechanics;High-Throughput+Distributed+Architectures;Cloud+Infrastructure+%26+DevOps+on+AWS" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ramya-rao-156298305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://leetcode.com/u/theramiway/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+    <a href="mailto:01fe23bcs243@kletech.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-  <!-- Colorful Connect Pills -->
-  <a href="https://www.linkedin.com/in/ramya-rao-156298305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://leetcode.com/u/theramiway/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-  <a href="mailto:01fe23bcs243@kletech.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-  <br /><br />
-
-  <!-- Animated Rainbow Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
+  <!-- Engaging Intro Section -->
+  <p align="center">
+    🕹️ <b>Backend Engineer & Passionate Game Developer</b> <br />
+    Crafting high-throughput distributed systems by day, and building physics-driven worlds in <b>Godot Engine</b> by night. <br />
+    Driven by low-latency architecture, interactive graphics, and clean, resilient code.
+  </p>
 
 </div>
+
+---
 
 ### ⚡ Focus & Domains
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Game%20Engine-Godot%204-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-7928CA?style=flat-square&logo=apache-kafka&logoColor=white" alt="Architecture" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20Infrastructure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Backend-Java%20%2F%20Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Metrics" />
   <img src="https://img.shields.io/badge/Containers-Docker%20%26%20K8s-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-- 💻 Passionate about **low-latency backend systems, event-driven architectures, and distributed services**.
-- ☁️ Designing scalable cloud workflows, automated container pipelines, and serverless backends on **AWS**.
-- ⚡ Open to high-impact open-source contributions and production system engineering projects.
+- 🎮 **Game Development:** Deeply passionate about game design, crafting interactive gameplay loops, 2D physics mechanics, and procedural elements in **Godot Engine & C++**.
+- 💻 **Distributed Systems:** Engineering low-latency backend architectures, event-driven pipelines, and high-concurrency microservices.
+- ☁️ **Cloud & Infrastructure:** Deploying resilient, auto-scaling services, container clusters, and serverless workflows on **AWS**.
+- ⚡ **Open Source:** Actively building and contributing to open-source software, developer tools, and creative tech projects.
 
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
-</div>
+---
 
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-  <p><strong>Languages</strong></p>
+  <p><strong>Engines & Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,solidity,html,css&perline=9" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,python,go,java,js,ts,solidity,html,css&perline=10" alt="Languages & Engines" />
   </a>
 
-  <br />
+  <br /><br />
 
   <p><strong>Frameworks & Libraries</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,fastapi,tailwind&perline=7" alt="Frameworks" />
   </a>
 
-  <br />
+  <br /><br />
 
   <p><strong>Cloud, Databases & DevOps</strong></p>
   <a href="https://skillicons.dev">
@@ -71,27 +71,18 @@
 
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
-</div>
+---
 
 ### 📊 GitHub Activity & Languages
 
 <div align="center">
-  <!-- Radical Theme: Vivid Neon Pink, Mint Green, and Cyan -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=theramiway&show_icons=true&theme=radical&hide_border=false&border_color=FF007A&border_radius=8" height="175" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theramiway&layout=compact&theme=radical&hide_border=false&border_color=00F5FF&border_radius=8" height="175" alt="Top Languages" />
   </p>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
-</div>
+---
 
 ### 🏆 Featured Projects
 
