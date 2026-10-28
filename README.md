@@ -7,9 +7,9 @@
     </span>
   </h1>
 
-  <!-- Dynamic Typing Animation with Neon Gradient Palette -->
+  <!-- Neon Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+%26+Backend+Engineer;High-Throughput+Distributed+Architectures;Cloud+Infrastructure+%26+DevOps+on+AWS;Algorithms+%26+Data+Structures+in+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+%26+Backend+Engineer;High-Throughput+Distributed+Architectures;Cloud+Infrastructure+%26+DevOps+on+AWS;Event-Driven+Microservices+%26+APIs" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -21,7 +21,7 @@
 
   <br /><br />
 
-  <!-- Animated Rainbow Gradient Divider -->
+  <!-- Animated Rainbow Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
 
 </div>
@@ -30,16 +30,15 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-7928CA?style=flat-square&logo=apache-kafka&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Infrastructure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Backend-Java%20%2F%20Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Core-C%2B%2B%20STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Metrics" />
   <img src="https://img.shields.io/badge/Containers-Docker%20%26%20K8s-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-- 💻 Passionate about **low-latency backend systems, event-driven architecture, and API design**.
-- ☁️ Designing scalable cloud networks and orchestration pipelines on **AWS**.
-- 🧠 Active competitive programming focus on pattern-based graph, stack, and tree problem solving in **C++ STL**.
-- ⚡ Open to high-impact open-source contributions and system engineering projects.
+- 💻 Passionate about **low-latency backend systems, event-driven architectures, and distributed services**.
+- ☁️ Designing scalable cloud workflows, automated container pipelines, and serverless backends on **AWS**.
+- ⚡ Open to high-impact open-source contributions and production system engineering projects.
 
 <br />
 
@@ -68,6 +67,35 @@
   <p><strong>Cloud, Databases & DevOps</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,postgres,mongodb,redis,prisma,git,vscode&perline=10" alt="Cloud & Tools" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-905b-359e24c8b624.gif" width="100%" height="4px" alt="Divider" />
+</div>
+
+### 🕹️ Retro Mini-Arcade
+
+Because GitHub sanitizes raw JavaScript, here is an interactive 8-bit arcade zone: take a quick break and play directly in your browser with one click!
+
+<div align="center">
+
+  <!-- Retro Pixel Runner Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Arcade Runner" />
+
+  <br /><br />
+
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🐍%20Play-Retro%20Snake-00F5FF?style=for-the-badge" alt="Snake" />
+  </a>&nbsp;
+  <a href="https://play2048.co/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮%20Play-2048-FF007A?style=for-the-badge" alt="2048" />
+  </a>&nbsp;
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🦖%20Play-T--Rex%20Runner-F46800?style=for-the-badge" alt="Dino Runner" />
   </a>
 
 </div>
